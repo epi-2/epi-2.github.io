@@ -1,3 +1,5 @@
+![alt text](hepi2.jpg)
+
 # **Epilepsy Epidemiology**
 
 ## Epilepsy in older adults
